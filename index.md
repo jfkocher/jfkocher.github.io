@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/jfkocher/jfkocher.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+For more information on Syntax: https://guides.github.com/features/mastering-markdown/
+
+### Test Python Highlighting
+```python
+def test():
+  return 'Test'
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
