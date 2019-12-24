@@ -11,6 +11,12 @@ For more information on Syntax: https://guides.github.com/features/mastering-mar
 def test():
   return 'Test'
 
+Now with Markdown
+
+```markdown
+def test():
+  return 'Test'
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
