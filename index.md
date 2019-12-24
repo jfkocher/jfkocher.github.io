@@ -10,7 +10,7 @@ For more information on Syntax: https://guides.github.com/features/mastering-mar
 ```python
 def test():
   return 'Test'
-
+```
 Now with Markdown
 
 ```markdown
