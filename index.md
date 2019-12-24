@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/jfkocher/jfkocher.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more information on Syntax: https://guides.github.com/features/mastering-markdown/
+For more informaiton on emoji: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ### Test Python Highlighting
 ```python
