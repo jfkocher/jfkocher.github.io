@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ### Future Content
--[Stata to Python](https://jfkocher.github.io/Stata_to_Python/)
+-[Stata to Python](https://jfkocher.github.io/Stata_to_Python/): 
 You can use the [editor on GitHub](https://github.com/jfkocher/jfkocher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ## Examples
