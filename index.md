@@ -4,6 +4,7 @@
 -[Stata to Python](https://jfkocher.github.io/Stata_to_Python/)
 You can use the [editor on GitHub](https://github.com/jfkocher/jfkocher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+## Examples
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more information on Syntax: https://guides.github.com/features/mastering-markdown/
