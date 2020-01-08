@@ -1,7 +1,7 @@
 ## Stata to Python
 
 Coming soon - Documentation on how to become a python user after operating strictly in Stata.
-```markdown
+
 ### Possible Topics:
 1. Data Frame handling
 2. Crosstab Tricks
@@ -10,7 +10,7 @@ Coming soon - Documentation on how to become a python user after operating stric
 5. Handling Duplicates
 6. Merging and Quality Assuarance methods
 7. Tidying up data frames
-'''
+
 
 
 
