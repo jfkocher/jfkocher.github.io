@@ -1,6 +1,14 @@
 ## Stata to Python
 
-Coming soon - Documenation on how to become a python user after operating in Stata.
+Coming soon - Documentation on how to become a python user after operating strictly in Stata.
+
+##Possible Topics:
+1. Data Frame handling
+2. Crosstab Tricks
+3. Inlist functions
+4. Replace values and other referencing methods
+5. Handling Duplicates
+6. Merging and Quality Assuarance methods
 
 
 ### Support or Contact
