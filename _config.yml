@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: jfkocher's homepage!
 description: Webpage currently under work.
+plugins:
+  - jemoji
